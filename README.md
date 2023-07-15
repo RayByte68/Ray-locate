@@ -9,6 +9,8 @@ Ray-locate is used to track an ip address. Ray-locate is developed for Termux an
 - `git clone https://github.com/RayByte68/Ray-locate`
 - `cd Ray-locate`
 
+- `pkg install requirements.txt`
+
 - `python Ray-locate.py`
 
 # How to use Ray-locate?
